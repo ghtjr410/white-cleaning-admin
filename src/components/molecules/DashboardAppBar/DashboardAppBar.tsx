@@ -11,7 +11,7 @@ const DashboardAppBar: React.FC = () => (
         sx={{
             width: `calc(100% - ${SIZES.SIDEBAR_WIDTH.DEFAULT}px)`,
             ml: `${SIZES.SIDEBAR_WIDTH.DEFAULT}px`,
-            backgroundColor: COLORS.PRIMARY,
+            backgroundColor: COLORS.ghtjr01,
         }}
     >
         <Toolbar>

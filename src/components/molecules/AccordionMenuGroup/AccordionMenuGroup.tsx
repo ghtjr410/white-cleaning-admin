@@ -1,3 +1,4 @@
+// AccordionMenuGroup.tsx
 // React 및 필요한 모듈 import
 import * as React from 'react'; // React 라이브러리 전체를 가져옴
 import {ACCORDION_MENUS} from "@/constants/ACCORDION_MENUS"; // 아코디언 메뉴의 상수 데이터 가져오기

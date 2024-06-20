@@ -1,3 +1,5 @@
+// AccordionMenuPanel.tsx
+
 // React와 MUI(Material-UI) 컴포넌트 import
 import * as React from 'react'; // React 라이브러리 전체를 가져옴
 import {Accordion} from '@mui/material';  // MUI의 Accordion 컴포넌트를 가져옴
@@ -19,7 +21,7 @@ const AccordionMenuPanel = ({AccordionMenuItemList, AccordionMenuTitle}: Accordi
     // 확장된 아코디언의 스타일 정의
     const expandedStyled = {
         backgroundColor: COLORS.ghtjr01, // 배경 색상 설정
-        color: COLORS.TEXT.PRIMARY, // 텍스트 색상 설정
+        color: COLORS.TEXT.ghtjr00, // 텍스트 색상 설정
         '&.Mui-expanded': { // 아코디언이 확장되었을 때의 스타일
             margin: 0,  // 마진 제거
             backgroundColor:COLORS.ghtjr01 // 배경 색상 설정

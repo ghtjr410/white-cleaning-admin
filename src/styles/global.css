@@ -23,3 +23,7 @@
 body {
     font-family: 'Pretendard', sans-serif;
 }
+/* 사이드바 백그라운드없앰 */
+.MuiAccordion-root {
+    box-shadow: none !important;
+}

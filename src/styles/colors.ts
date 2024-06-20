@@ -7,10 +7,13 @@ const COLORS = {
     ACCENT: '#E53E3E',        // 강조 색상 (눈에 잘 띄는 빨간색)
     HIGHLIGHT: '#ECC94B',     // 하이라이트 색상 (눈에 띄는 밝은 노란색)
     WHITE: '#FFFFFF',
+    ghtjr00: '#39465E',
     ghtjr01: '#3F4D67',
+    ghtjr02: '#39465E',
     TEXT: {
         PRIMARY: '#FFFFFF',     // 기본 폰트 색상 (흰색, 어두운 배경과 대비)
         SECONDARY: '#A0AEC0',   // 보조 폰트 색상 (밝은 회색)
+        ghtjr00: '#A9B7D0',
         ghtjr01: '#1EC3E7',
     },
 

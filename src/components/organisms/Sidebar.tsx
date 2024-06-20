@@ -1,3 +1,4 @@
+// sidebar.tsx
 import * as React from 'react';
 import AccordionMenuGroup from "@/components/molecules/AccordionMenuGroup/AccordionMenuGroup";
 import LogoLink from "@/components/atoms/LogoLink/LogoLink";
